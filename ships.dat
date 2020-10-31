@@ -1,0 +1,34 @@
+NumShips : 2
+Class : Galaxy
+RegNumber : NCC-1701-D
+Mass : 4.5e+06
+Crew : 4
+Rank : Captain
+Name : Jean-Luc Picard
+Age  : 47
+Rank : Commander
+Name : William Riker
+Age  : 35
+Rank : Lt. Commander
+Name : Data
+Age  : 38
+Rank : Counselor/Commander
+Name : Deanna Troi
+Age  : 32
+
+Class : Nebula
+RegNumber : NCC-62043
+Mass : 3.309e+06
+Crew : 4
+Rank : Lieutenant
+Name : Tasha Yar
+Age  : 30
+Rank : Lt. Commander
+Name : Geordi La Forge
+Age  : 30
+Rank : Commander
+Name : Dr. Beverly Crusher
+Age  : 38
+Rank : Lieutenant
+Name : Worf
+Age  : 35

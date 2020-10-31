@@ -1,0 +1,17 @@
+
+/6 pts Comments & Style & Google Style Guide Followed
+
+/12 pts Deliverable 1: Correct code for Captain, Commander, Counselor, Ensign, Lieutenant, LtCommander
+
+/6 pts Deliverable 2: Complete the overloaded istream operator>>( ) in Officer.cpp
+
+/3 pts Deliverable 3: Complete Sort() method in Ship.cpp
+
+/3 pts Deliverable 4: Output officers for both ships to stdout in main.cpp
+
+/30 pts Deliverable 5: Code compiles and runs correctly
+
+	
+Total    /60
+
+Comments: 
